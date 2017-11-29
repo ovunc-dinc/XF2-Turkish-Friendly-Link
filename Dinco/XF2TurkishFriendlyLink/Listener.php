@@ -1,6 +1,6 @@
 <?php
 
-namespace Xfrocks\VietnameseFriendlyLink;
+namespace Dinco\XF2TurkishFriendlyLink;
 
 class Listener
 {
