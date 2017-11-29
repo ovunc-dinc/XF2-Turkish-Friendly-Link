@@ -1,5 +1,6 @@
 # XF2-Turkish-Friendly-Link
 XF2-URL Yapisini TR Karakter Dizimine Göre Düzenler
+
 /admin.php?options/groups/basicBoard/ Alanında yer alan,
 
 - Arama motoru dostu URL yapısını kullan.
