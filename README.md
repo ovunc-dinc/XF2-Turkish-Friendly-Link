@@ -7,4 +7,4 @@ XF2-URL Yapisini TR Karakter Dizimine Göre Düzenler
 - URL Türkçe karakterleri kullanma.
 
 Seçeneklerini eklentinizi kurmadan önce işaretleyiniz. Bu işlemin ardından,
-Upload edilecek dosyları sisteminize eklemeniz eklentinin kurulumu için gerekli aşamaları gerçekleştirmiç olacaktır.
+Upload edilecek dosyaları sisteminize eklemeniz eklentinin kurulumu için gerekli aşamaları gerçekleştirmiş olacaktır.
